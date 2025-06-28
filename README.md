@@ -65,6 +65,7 @@
 ### ✨ A Touch of Personality
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=React-based%20flows%20are%20my%20thing;Functional%20over%20fancy%20anytime;State%20management%20is%20therapy;Yes%2C%20I%20debug%20in%20my%20dreams;If(it%20works)%20return%20happiness;I%20don’t%20just%20code%2C%20I%20build%20stories;setTimeout()%20is%20my%20coffee%20break;UI%20without%20logic%20is%20just%20decoration;Console.log('%F0%9F%91%8D')%20is%20a%20mood;Still%20waiting%20for%20AI%20to%20fix%20my%20bugs&center=true&width=800&height=45&duration=3000&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com?lines=React+flows+are+my+zone;If(it+works)+return+happiness;Yes%2C+I+debug+in+my+dreams;Console.log('Hello%2C+Universe!');Waiting+for+AI+to+fix+my+bugs&center=true&width=750&height=45&duration=3000&pause=1000" />
 </p>
+
 
