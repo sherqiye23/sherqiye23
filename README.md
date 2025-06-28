@@ -1,25 +1,25 @@
 <!-- ![Header](./header.png) -->
 
-<h1 align="center">Hi 👋, I'm Sherqiye</h1>
-<h3 align="center">Frontend-Oriented Fullstack Developer | React Enthusiast | Passionate About UI/UX</h3>
+<h1 align="center">Hi 👋, I'm Shargiya</h1>
+<h3 align="center">Frontend-Oriented Fullstack Developer | React Enthusiast | Code that works, interfaces that shine</h3>
 
 ---
 
 - 🔭 Currently working on multiple **React** and **fullstack** projects  
 - 💡 Focused on building interactive UIs, modern SPAs, and performance-optimized frontend architectures  
-- 🧠 Exploring backend with **Node.js**, **PostgreSQL**, and **REST API** integration  
+- 🧠 Exploring backend with **Node.js** and **REST API** integration  
 - 💬 Strongest skills in **JavaScript / React**, responsive design, and animation with CSS  
 - 🤝 Love collaborating on frontend-heavy or fullstack projects  
 - 📫 Let's connect:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sherqiye23" target="_blank">
+  <a href="https://www.linkedin.com/in/shargiya-guluzade-abb64936a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/sherqiye23" target="_blank">
+  <a href="https://www.instagram.com/sherqiye_quluzade" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:sherqiye23@gmail.com" target="_blank">
+  <a href="mailto:serqiye.quluzade@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -65,8 +65,9 @@
 ### ✨ A Touch of Personality
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=React+flows+are+my+zone;If(it+works)+return+happiness;Yes%2C+I+debug+in+my+dreams;Console.log('Hello%2C+Universe!');Waiting+for+AI+to+fix+my+bugs&center=true&width=750&height=45&duration=3000&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com?lines=React+flows+are+my+zone;Functional+code+%3E+fancy+pixels;If(it+works)+return+happiness;Yes%2C+I+debug+in+my+dreams;UI+without+logic+is+just+decoration;I+don’t+just+code%2C+I+build+flows;State+management+is+my+daily+drama;setTimeout()+is+my+coffee+break;Console.log('Still+here');Frontend+is+my+battlefield;Waiting+for+AI+to+fix+my+bugs;Building+UIs+that+talk+back;Less+bugs%2C+more+features&center=true&width=800&height=45&duration=3000&pause=1000" />
 </p>
+
 
 
 
