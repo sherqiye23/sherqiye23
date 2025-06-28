@@ -65,5 +65,6 @@
 ### ✨ A Touch of Personality
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer%20with%20a%20vision;React%20and%20Animation%20Fanatic;Pixel-perfect%20UI%20matters;Coding%20my%20way%20to%20the%20future;CSS%20can%20be%20magic;Component-based%20design%20rocks;I%20enjoy%20clean%20and%20interactive%20UIs;Figma%20to%20React?%20Yes%20please!;Mistakes%20help%20me%20grow;Let's%20build%20something%20awesome%20together!&center=true&width=700&height=45&duration=3000&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=React-based%20flows%20are%20my%20thing;Functional%20over%20fancy%20anytime;State%20management%20is%20therapy;Yes%2C%20I%20debug%20in%20my%20dreams;If(it%20works)%20return%20happiness;I%20don’t%20just%20code%2C%20I%20build%20stories;setTimeout()%20is%20my%20coffee%20break;UI%20without%20logic%20is%20just%20decoration;Console.log('%F0%9F%91%8D')%20is%20a%20mood;Still%20waiting%20for%20AI%20to%20fix%20my%20bugs&center=true&width=800&height=45&duration=3000&pause=1000" />
 </p>
+
