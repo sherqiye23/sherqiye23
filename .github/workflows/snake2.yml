@@ -1,25 +1,35 @@
-name: Generate Snake Game
-
+name: Generate snake game v2
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0/12 * * *"
   workflow_dispatch:
-
+permissions:
+  contents: write
+  actions: read
 jobs:
   build:
+    name: Jobs to update data
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
-        uses: alexandresanlim/snk@main
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
         with:
-          github_user_name: sherqiye23
+          github_user_name: RavanGuliyeff
           outputs: |
-            dist/github-contribution-grid-snake.svg
-          snake_color: '#00bfff'        # 💙 mavi ilan
-          background_color: '#0d1117'   # 🌑 dark mode
-
-      - name: Push to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=orange&color_dots=#575757,#74cc8f,#44a662,#228240,#065e21
+            dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/retro-snake.svg?palette=github-dark&color_snake=#00FF00&color_dots=#000000,#006400,#008000,#00FF00,#00CED1
+            dist/game-snake.svg?palette=github-dark&color_snake=#FF00FF&color_dots=#000000,#800080,#FF00FF,#DA70D6,#FFA500
+            dist/developer-snake.svg?palette=github-dark&color_snake=#00FFFF&color_dots=#1E1E1E,#2E7D32,#4CAF50,#81C784,#A5D6A7
+            dist/forest-snake.svg?palette=github-dark&color_snake=#228B22&color_dots=#2F4F2F,#6B8E23,#9ACD32,#ADFF2F,#98FB98
+            dist/cosmic-snake.svg?palette=github-dark&color_snake=#1E90FF&color_dots=#0F0F2D,#4169E1,#1E90FF,#87CEEB,#ADD8E6
+            dist/sunset-snake.svg?palette=github-dark&color_snake=#FF4500&color_dots=#8B4513,#FF8C00,#FFA500,#FFD700,#FFE4B5
+            dist/cyber-snake.svg?palette=github-dark&color_snake=#00FFFF&color_dots=#1C2526,#00CED1,#00FFFF,#7FFFD4,#E0FFFF
+            dist/desert-snake.svg?palette=github-dark&color_snake=#DAA520&color_dots=#8B4513,#D2691E,#F4A460,#DAA520,#F0E68C
+            dist/ocean-depth-snake.svg?palette=github-dark&color_snake=#4682B4&color_dots=#0F1B2D,#2E8B57,#4682B4,#87CEEB,#E0FFFF
+            dist/aurora-snake.svg?palette=github-dark&color_snake=#FF69B4&color_dots=#2F2F4F,#6A5ACD,#BA55D3,#FF69B4,#FFB6C1
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
