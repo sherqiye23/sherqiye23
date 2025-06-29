@@ -2,7 +2,7 @@ name: Generate snake game
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # hər 12 saatdan bir işləsin
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,7 +15,8 @@ jobs:
           github_user_name: sherqiye23
           outputs: |
             dist/github-contribution-grid-snake.svg
-          snake_color: '#ffd900'
+          snake_color: '#00bfff'          # 💙 mavi ilan
+          background_color: '#0d1117'     # 🌑 dark mode background
 
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
