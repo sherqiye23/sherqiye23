@@ -7,8 +7,8 @@
 
 - 🔭 Currently working on multiple **React** and **fullstack** projects  
 - 💡 Focused on building interactive UIs, modern SPAs, and performance-optimized frontend architectures  
-- 🧠 Exploring backend with **Node.js** and **REST API** integration  
-- 💬 Strongest skills in **JavaScript / React**, responsive design, and animation with CSS  
+- 🧠 Exploring backend with **Next.js** and **REST API** integration  
+- 💬 Strongest skills in **React / JavaScript / TypeScript**, responsive design, and animation with CSS  
 - 🤝 Love collaborating on frontend-heavy or fullstack projects  
 - 📫 Let's connect:
 
