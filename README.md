@@ -1,6 +1,6 @@
 <!-- ![Header](./header.png) -->
 
-<h1 align="center">Hi 👋, I'm Shargiya</h1>
+<h1 align="center">Hi 👋, I'm Shargiya Guluzade</h1>
 <h3 align="center">Frontend-Oriented Fullstack Developer | React Enthusiast | Code that works, interfaces that shine</h3>
 
 ---
@@ -97,7 +97,7 @@
 
 ## GitHub Contribution Snake
 
-### Default Snake
+<!--### Default Snake
 <img src="https://raw.githubusercontent.com/sherqiye23/sherqiye23/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 ### Dark Theme Snake
@@ -107,12 +107,12 @@
 <img src="https://raw.githubusercontent.com/sherqiye23/sherqiye23/output/ocean.svg" alt="GitHub Ocean Contribution Snake" width="100%"/>
 
 ### Retro Style Snake
-<img src="https://raw.githubusercontent.com/sherqiye23/sherqiye23/output/retro-snake.svg" alt="GitHub Retro Contribution Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/sherqiye23/sherqiye23/output/retro-snake.svg" alt="GitHub Retro Contribution Snake" width="100%"/> -->
 
 ### Game Style Snake
 <img src="https://raw.githubusercontent.com/sherqiye23/sherqiye23/output/game-snake.svg" alt="GitHub Game Contribution Snake" width="100%"/>
 
-### Developer Style Snake
+<!-- ### Developer Style Snake
 <img src="https://raw.githubusercontent.com/sherqiye23/sherqiye23/output/developer-snake.svg" alt="GitHub Developer Contribution Snake" width="100%"/>
 
 ### Forest Style Snake
@@ -134,7 +134,7 @@
 <img src="https://raw.githubusercontent.com/sherqiye23/sherqiye23/output/ocean-depth-snake.svg" alt="GitHub Ocean Depth Contribution Snake" width="100%"/>
 
 ### Aurora Style Snake
-<img src="https://raw.githubusercontent.com/sherqiye23/sherqiye23/output/aurora-snake.svg" alt="GitHub Aurora Contribution Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/sherqiye23/sherqiye23/output/aurora-snake.svg" alt="GitHub Aurora Contribution Snake" width="100%"/> -->
 
 
 <!-- ![snake gif](https://github.com/sherqiye23/sherqiye23/blob/output/github-contribution-grid-snake.svg) -->
