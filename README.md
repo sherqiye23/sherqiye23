@@ -107,15 +107,15 @@
 <img src="https://raw.githubusercontent.com/sherqiye23/sherqiye23/output/ocean.svg" alt="GitHub Ocean Contribution Snake" width="100%"/>
 
 ### Retro Style Snake
-<img src="https://raw.githubusercontent.com/sherqiye23/sherqiye23/output/retro-snake.svg" alt="GitHub Retro Contribution Snake" width="100%"/> -->
+<img src="https://raw.githubusercontent.com/sherqiye23/sherqiye23/output/retro-snake.svg" alt="GitHub Retro Contribution Snake" width="100%"/> 
 
 ### Game Style Snake
-<img src="https://raw.githubusercontent.com/sherqiye23/sherqiye23/output/game-snake.svg" alt="GitHub Game Contribution Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/sherqiye23/sherqiye23/output/game-snake.svg" alt="GitHub Game Contribution Snake" width="100%"/>-->
 
-<!-- ### Developer Style Snake
+ ### Developer Style Snake
 <img src="https://raw.githubusercontent.com/sherqiye23/sherqiye23/output/developer-snake.svg" alt="GitHub Developer Contribution Snake" width="100%"/>
 
-### Forest Style Snake
+<!--### Forest Style Snake
 <img src="https://raw.githubusercontent.com/sherqiye23/sherqiye23/output/forest-snake.svg" alt="GitHub Forest Contribution Snake" width="100%"/>
 
 ### Cosmic Style Snake
